@@ -31,8 +31,10 @@ Fez
 Calendia, Vohalyo
 Code: block
 You are from the Cal?úneÿi, the Dialers to Home, or, to less clued-up individuals, the Contact.
+in: office
 
 Wolaÿi 56, a ?ónyïyonlaÿit from the planet of ?ón.
+Code: blinker
 ?ófúya’
 Attacked a link (Yolna/ne/s Road)
 
@@ -41,3 +43,8 @@ Calendia, Vohalyo
 top banana of the Contact branch
 Code: Pentadecathlon
 Heard Wolay:i attacked a link
+in: MSPA (PS)
+
+
+
+
