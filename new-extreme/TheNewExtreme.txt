@@ -8,6 +8,7 @@
 sparky things
 characters
 roles/mythology
+ultimate weapons
 
 items
 0:34
