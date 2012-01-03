@@ -1,0 +1,3 @@
+? | juggling_balls | coral
+cloud | water | ?
+ice | ? | ?
