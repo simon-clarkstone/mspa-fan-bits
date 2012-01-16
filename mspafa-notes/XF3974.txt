@@ -1,0 +1,51 @@
+floor 1:
+
+left 1 - red fire
+left 2 - white cloud
+left 3 - red biohazard
+right 1 - brown mountians
+right 2 - blue water
+right 3 - yellow radioactivity
+
+floor 2:
+corridor A
+l1 - Dr. Aeron's office code 395489 + door to closet 295734 access card http://mspfanventures.com/?s=89&p=144
+l2 - " living quarters
+m
+r1
+r2
+
+Specimen Storage KRI-3 and Equipment Storage MDN-4
+
+Dr. Teivel - retain harsh
+Dr. Zerne - ?
+
+Dr. Lilith - overrids lockout
+files: http://mspfanventures.com/?s=89&p=134
+ZX=dangerous (Solace unit)
+XF=balanced
+SY=defence
+EQ=int
+VK=weapon
+CH=chimera
+
+#EQ2631: ESCAPED FROM NULLIFIER; LOOSE WITHIN FACILITY - elata F
+#XF3974: ESCAPED FROM NULLIFIER; LOOSE WITHIN FACILITY - xevatch M
+zx0010 = desolator/destroyer (sy2531)
+CH0823 = chimera - cynric M
+
+nullifier, annihilator
+
+---
+
+mountains
+corr:
+left=out (cliff), right=small lab
+large room
+
+keycard is inside species #027
+
+end:http://mspfanventures.com/?s=89&p=307
+but wait! http://mspaforums.com/showthread.php?29148-XF3974-It-s-over&p=4555041&highlight=rwth6u#post4555041
+recap http://mspaforums.com/showthread.php?29148-XF3974-It-s-over&p=4848755&viewfull=1#post4848755
+really the end
