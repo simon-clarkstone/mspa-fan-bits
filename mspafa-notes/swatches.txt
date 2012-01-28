@@ -1,3 +1,18 @@
+Arthur Martins
+Sam - spider (female)
+Henry - toy
+Alice - seems helpful; writes on walls
+  cannot see/hear, but can sense Arthur
+  now resting
+Mary
+
 ? | juggling_balls | coral
 cloud | water | grass
 ice | ? | ?
+
+room (cell 8)
+out:
+right = cell 9, end
+left = cells 6-7 + staff area (right) + cells 1-5
+ouside cell 3 is dead guy with swatch
+staff area: puddle (acid, frozen, key!)
