@@ -16,3 +16,4 @@ right = cell 9, end
 left = cells 6-7 + staff area (right) + cells 1-5
 ouside cell 3 is dead guy with swatch
 staff area: puddle (acid, frozen, key!)
+left: lounge (locked), ahead: metal door, right: restrooms
