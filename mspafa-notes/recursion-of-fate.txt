@@ -1,13 +1,16 @@
 SMyth - roughly sburb logo but with anvil
 people disappear (127)
 heal on entry (194)
-reddish purple sky
-trees make faces
 hand: stats, kit, skills
-deck: ??
+deck: stores 7 unused cards?
++ have card-storage for items
++ can take tree, but only get "card shaped fog" for ground
+??: ??
+chat: chatting
+lore: lots
 weapon skills can choose varying specificity
 ---
-Chester Ellis, 16 - supremeSingluarity/black
+Chester Ellis, 16 - supremeSingluarity/black - coatkind
 red hair, green eyes, scowl
 lab coat
 physics, mythology
@@ -20,6 +23,8 @@ games room and lab in basement (landing has food storage)
 + lab: physics, chemistry, biology
 + games room: two person LOVESEAT, an OTTOMAN, and an UNCOMFORTABLE FOLDING CHAIR; tv and gamesphere are crap
 lab is Chester-only, dad's room is dad-only
+= The Vale of Twilight and Mirth - mocking trees; gremlins (256)
+reddish purple sky
 ---
 Lindsay Lovhaug, beast tamer - immortalLegionette/red/1 and 7 - young girl who broke punching bag (again)
 near Chester
@@ -54,10 +59,14 @@ slow typer; wants to come but SS says no then yes (76)
 novels, romance+mystery
 ships SS/IL, also SS/AI, denies US/SS
 + father (cop) - dkblue
+= ??
+stone towers, wind, black sky
 ---
 Kaylyn Antwiller - cleverDjinn/yellow ochre/long vowels -
 fasion, art, nosy
 capable?
+---
+sythesizedQuintessence
 ---
 ??? (male) - pink - cares about Victoria
 ---
@@ -66,6 +75,16 @@ RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
 RUNIAMSOSORRYFORGIVEME I'D REALLY SUGGEST NOT LOOKING OUT YOUR WINDOW.
 white mask with smile
 in dark featureless room
+kinda teasy
+---
+amaterasuReborn/ltgreen/correct
+somewhere in causal chain (246)
+seems a bit aloof
+---
+eeternalSolitood/fleshpink/phonetic vowels - 
+sekond tiem deeling with thees shenanigans
+name disappears (259)
+likes talking to chester
 ---
 supernal swordsman/suburban sniper - guy climbing hill towards houses
 + long thin package (takes time to ready and unready) / EXTENDED RANGE EXECUTION DEVICE (not human name)
@@ -94,3 +113,4 @@ You line up your vision, checking the path that the bullet travelled. It seems t
 
 Now that you hav-"
 ss associate performing plan b
+"ES: dont loos yor controller, okay?" 246
