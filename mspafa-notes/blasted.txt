@@ -3,7 +3,7 @@ name - handle - logo - guardian - strife specibus
 Edward Thomas - electroBond - lightning - ??? - ???
 
 Jacob Grammer - lightspeedHadron - moon? mining - Aldrin - fruitkind
-...>
+->
 Harry Belman - bowtieAficionado - bowtie - ??? - bowkind
 ->
 Theresa May - smallMacs - fire / punching bag - mother - glovekind

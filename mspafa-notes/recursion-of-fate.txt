@@ -1,14 +1,18 @@
 SMyth - roughly sburb logo but with anvil
+screen options - cameras, map
+chat options - ??
+---
 people disappear (127)
 heal on entry (194)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
-+ can take tree, but only get "card shaped fog" for ground
++ can take tree, but only get "card shaped fog" for Votam ground
 ??: ??
 chat: chatting
 lore: lots
 weapon skills can choose varying specificity
+Pips
 ---
 Chester Ellis, 16 - supremeSingluarity/black - coatkind
 red hair, green eyes, scowl
@@ -23,7 +27,7 @@ games room and lab in basement (landing has food storage)
 + lab: physics, chemistry, biology
 + games room: two person LOVESEAT, an OTTOMAN, and an UNCOMFORTABLE FOLDING CHAIR; tv and gamesphere are crap
 lab is Chester-only, dad's room is dad-only
-= The Vale of Twilight and Mirth - mocking trees; gremlins (256)
+= The Vale of Twilight and Mirth - mocking trees + fruit (286); gremlins (256)
 reddish purple sky
 ---
 Lindsay Lovhaug, beast tamer - immortalLegionette/red/1 and 7 - young girl who broke punching bag (again)
@@ -57,10 +61,11 @@ ELIZABETH DOUGAN - unkownShadown/blue -
 long black hair, thick rimmed glasses, icy blue eyes
 slow typer; wants to come but SS says no then yes (76)
 novels, romance+mystery
-ships SS/IL, also SS/AI, denies US/SS
+ships SS/IL, also SS/AI, denies US/SS, self/menu
 + father (cop) - dkblue
-= ??
+= VILLAGE OF GRAVESTONES AND WHISPERS
 stone towers, wind, black sky
+- winged figure, 2 swords + blindfold; cloaked figure, sorrow (286)
 ---
 Kaylyn Antwiller - cleverDjinn/yellow ochre/long vowels -
 fasion, art, nosy
@@ -70,7 +75,7 @@ sythesizedQuintessence
 ---
 ??? (male) - pink - cares about Victoria
 ---
-comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
+"lemat" - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
 RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
 RUNIAMSOSORRYFORGIVEME I'D REALLY SUGGEST NOT LOOKING OUT YOUR WINDOW.
 white mask with smile
