@@ -2,7 +2,7 @@ SMyth - roughly sburb logo but with anvil
 screen options - cameras, map
 chat options - ??
 ---
-people disappear (127)
+people disappear (127) Chester,Liz,Kaylyn,?,?,?
 heal on entry (194)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
@@ -61,11 +61,12 @@ ELIZABETH DOUGAN - unkownShadown/blue -
 long black hair, thick rimmed glasses, icy blue eyes
 slow typer; wants to come but SS says no then yes (76)
 novels, romance+mystery
-ships SS/IL, also SS/AI, denies US/SS, self/menu
+ships SS/IL, also SS/AI, denies US/SS, (180) ships self/menu
 + father (cop) - dkblue
 = VILLAGE OF GRAVESTONES AND WHISPERS
 stone towers, wind, black sky
 - winged figure, 2 swords + blindfold; cloaked figure, sorrow (286)
+Umbrella, fire (350)
 ---
 Kaylyn Antwiller - cleverDjinn/yellow ochre/long vowels -
 fasion, art, nosy
@@ -99,6 +100,9 @@ associate on phone "short man" according to Liz (186)
 waiting for "the target" (Chester)
 Not human, Green hair is typical.
 combat "Concepts", blood (171)
+---
+CLOCKWORK DEVISER
+doesn't understand playground (346)
 ---
 TODO:
 going to rain (183)
