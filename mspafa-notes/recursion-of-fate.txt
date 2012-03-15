@@ -1,9 +1,10 @@
 SMyth - roughly sburb logo but with anvil
+menu is solid (432)
 screen options - cameras, map
 chat options - ??
 ---
 people disappear (127) Chester,Liz,Kaylyn,?,?,?
-heal on entry (194)
+heal on entry (194, 402)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
@@ -69,15 +70,32 @@ stone towers, wind, black sky
 - winged figure, 2 swords + blindfold; cloaked figure, sorrow (286)
 Umbrella, fire (350)
 ---
-Kaylyn Antwiller - cleverDjinn/yellow ochre/long vowels -
+Kaylyn Antwiller - cleverDjinn/yellow ochre=DAA520/long vowels -
 fasion, art, nosy
 capable?
+= ??? (wooden room)
++ paddlefoot - #8B4513 - rubber chicken
++ ?? - #ffff00 - rags
+  - not The Warrior/Hunter/Woodsman/Wolf (422)
+  - thought that Kaylyn was "Sleeping Beauty" (424)
+  - "We stood and fought, but you ran away." (429)
 ---
 sythesizedQuintessence
 ---
-JON RAINES (male, 11) - pink - cares about Victoria
+JON RAINES (male, 11) - eeternalSolitood/fleshpink=ffcc99/phonetic vowels - 
+sekond tiem deeling with thees shenanigans
+name disappears (259)
+likes talking to chester
 brown hair + eyes
 Second Hand Clothing, Previously Owned Rain Gear
+---
+GEOFFREY HAGE / The Troubadour (18yo) (382) - poeticCavalier/pink=ff9999 - cares about Victoria (153)
+sci-fi, guitar, sax
+charming
+cane
+knows Erik
+---
+Erik (385) - jungianUmbrage/#6D8354 - has "THE DEFENDER"
 ---
 "lemat" - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
 RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
@@ -89,11 +107,6 @@ kinda teasy
 amaterasuReborn/ltgreen/correct
 somewhere in causal chain (246)
 seems a bit aloof
----
-eeternalSolitood/fleshpink/phonetic vowels - 
-sekond tiem deeling with thees shenanigans
-name disappears (259)
-likes talking to chester
 ---
 supernal swordsman/suburban sniper - guy climbing hill towards houses
 + long thin package (takes time to ready and unready) / EXTENDED RANGE EXECUTION DEVICE (not human name)
@@ -108,7 +121,7 @@ CLOCKWORK DEVISER
 doesn't understand playground (346)
 ---
 TODO:
-going to rain (183)
+Geoffry heading to Vic + Jon
 
 "Linsday is out of b!^eath. That fact alone says some%&$thing, as she is one of the most athletic people you know.
 1 can7 bel1ev@$#% 17
@@ -124,5 +137,7 @@ Y^%^ look at the hole in the w@#$%#ll. You look toward#$s the hole in the w$^%&n
 You line up your vision, checking the path that the bullet travelled. It seems the sh0#$%ter stood quiet a distance away, @#n that hilltop there.
 
 Now that you hav-"
-ss associate performing plan b
 "ES: dont loos yor controller, okay?" 246
+"R(_)n. Ke3p |^unN1n@34, ju5$t k33#(9 running.
+
+R@nni%g st()ps 1t fr0^^ b#R3ing real. RuNI3#@!$@#$-" (379)
