@@ -2,8 +2,11 @@ SMyth - roughly sburb logo but with anvil
 menu is solid (432)
 screen options - cameras, map
 chat options - ??
+Quintessal Sea: dangerous, must be traversed with a Vessel (455); unravels objects (458)
+Spirits: ??
 ---
-people disappear (127) Chester,Liz,Kaylyn,?,?,?
+people disappear (127) "Scions" (447) Chester,Liz,Kaylyn,?,?,?
+- each get a sacred artefact (458)
 heal on entry (194, 402)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
@@ -15,7 +18,7 @@ lore: lots
 weapon skills can choose varying specificity
 Pips
 ---
-Chester Ellis, 16 - supremeSingluarity/black - coatkind
+Chester Ellis (The Charlatan) (470), 16 - supremeSingluarity/black - coatkind
 red hair, green eyes, scowl
 lab coat
 physics, mythology
@@ -38,13 +41,14 @@ lop-sided ponytail, one arm, black shorts orange tank top
 rain jacket, phone, medicie for mrs j
 athletic; HUMAN ANATOMY and MEDICINE (like father)
 sculpture
-phone is not "device designed by mortal hand"
+phone is not "device designed by mortal hand" (28)
 + father (Saul-slightly dk red) - staff - loving, but physical challenge - knows what is going to happen - dog-whisperer
 + dogs (incl Demon; the Beast)
   Demon has paralyzing voice
 training room in basement
 doesn't like AI much
 fancies Chester
+taller than Chester (458)
 ---
 Henrick Smith - cardinalStrategist/dk red/chess pieces -
 girlfriend is CD
@@ -55,11 +59,12 @@ will be absent
 where has she buggered off to?  Even the narrator can't find her.
 green eyes and hair; blindfold
 prophecy; combat training + swords ("VAGUS")
+- discovered the Titles (470)
 dark past (145); foster homes, rents
 "The new girl" (362)
 ---
-ELIZABETH DOUGAN - unkownShadown/blue -
-16, friend of cleverDjinn
+ELIZABETH DOUGAN - unkownShadown/blue#3399ff -
+16, friend of kaylyn=cleverDjinn
 long black hair, thick rimmed glasses, icy blue eyes
 slow typer; wants to come but SS says no then yes (76)
 novels, romance+mystery
@@ -69,11 +74,13 @@ ships SS/IL, also SS/AI, denies US/SS, (180) ships self/menu
 stone towers, wind, black sky
 - winged figure, 2 swords + blindfold; cloaked figure, sorrow (286)
 Umbrella, fire (350)
+sacred relic (controller?) (452)
++ Bryn (455) (Indwelling) - #3399ff,#ff3333
 ---
 Kaylyn Antwiller - cleverDjinn/yellow ochre=DAA520/long vowels -
 fasion, art, nosy
 capable?
-= ??? (wooden room)
+= VoTaM (wooden room)
 + paddlefoot - #8B4513 - rubber chicken
 + ?? - #ffff00 - rags
   - not The Warrior/Hunter/Woodsman/Wolf (422)
@@ -94,6 +101,9 @@ sci-fi, guitar, sax
 charming
 cane
 knows Erik
+---
+??? - lavender#9999ff -
+about to exit "the Cave"
 ---
 Erik (385) - jungianUmbrage/#6D8354 - has "THE DEFENDER"
 ---
@@ -122,6 +132,8 @@ doesn't understand playground (346)
 ---
 TODO:
 Geoffry heading to Vic + Jon
+Chester is with Kaylyn; Liz is a 2 km away, NE (461)
+Chester's phone is still in the house. (476)
 
 "Linsday is out of b!^eath. That fact alone says some%&$thing, as she is one of the most athletic people you know.
 1 can7 bel1ev@$#% 17
