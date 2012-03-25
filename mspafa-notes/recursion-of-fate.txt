@@ -4,6 +4,21 @@ screen options - cameras, map
 chat options - ??
 Quintessal Sea: dangerous, must be traversed with a Vessel (455); unravels objects (458)
 Spirits: ??
+titles (479):
+  phone number:
+  The Charlatan (chester/lindsay)
+  The Messanger
+  The Keeper
+  The Arbiter
+  The Alchemist
+  The Warrior
+  no phone number:
+  The Watcher
+  The Wanderer
+  The Reaper
+  The Goddess
+  The Dreamer
+  The Betrayer
 ---
 people disappear (127) "Scions" (447) Chester,Liz,Kaylyn,?,?,?
 - each get a sacred artefact (458)
@@ -18,7 +33,7 @@ lore: lots
 weapon skills can choose varying specificity
 Pips
 ---
-Chester Ellis (The Charlatan) (470), 16 - supremeSingluarity/black - coatkind
+Chester Ellis, 16 - supremeSingluarity/black - coatkind
 red hair, green eyes, scowl
 lab coat
 physics, mythology
@@ -87,8 +102,6 @@ capable?
   - thought that Kaylyn was "Sleeping Beauty" (424)
   - "We stood and fought, but you ran away." (429)
 ---
-sythesizedQuintessence
----
 JON RAINES (male, 11) - eeternalSolitood/fleshpink=ffcc99/phonetic vowels - 
 sekond tiem deeling with thees shenanigans
 name disappears (259)
@@ -102,10 +115,12 @@ charming
 cane
 knows Erik
 ---
-??? - lavender#9999ff -
+sythesizedQuintessence (479) - lavender#9999ff -
 about to exit "the Cave"
+"anxiety disorder"
 ---
 Erik (385) - jungianUmbrage/#6D8354 - has "THE DEFENDER"
+kinda dangerous
 ---
 "lemat" - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
 RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
@@ -118,12 +133,7 @@ amaterasuReborn/ltgreen/correct
 somewhere in causal chain (246)
 seems a bit aloof
 ---
-?? -- #000066 --
----
-eeternalSolitood/fleshpink/phonetic vowels - 
-sekond tiem deeling with thees shenanigans
-name disappears (259)
-likes talking to chester
+?? -- #000066 (350) --
 ---
 supernal swordsman/suburban sniper - guy climbing hill towards houses
 + long thin package (takes time to ready and unready) / EXTENDED RANGE EXECUTION DEVICE (not human name)
@@ -138,13 +148,15 @@ CLOCKWORK DEVISER
 doesn't understand playground (346)
 ---
 TODO:
-Geoffry heading to Vic + Jon
+Geoffry, Vic, Jon, Erik at Chester's house.
 Chester is with Kaylyn; Liz is a 2 km away, NE (461)
 Chester's phone is still in the house. (476)
+What is Erik doing what with Victoria?
 
 "Linsday is out of b!^eath. That fact alone says some%&$thing, as she is one of the most athletic people you know.
 1 can7 bel1ev@$#% 17
 1 can7 bel1eve #^#__&^@#@$-"
+---
 "Blo0d.
 
 Defi#@$tly a |ot of bl)@0d.
@@ -156,7 +168,20 @@ Y^%^ look at the hole in the w@#$%#ll. You look toward#$s the hole in the w$^%&n
 You line up your vision, checking the path that the bullet travelled. It seems the sh0#$%ter stood quiet a distance away, @#n that hilltop there.
 
 Now that you hav-"
-"ES: dont loos yor controller, okay?" 246
+---
 "R(_)n. Ke3p |^unN1n@34, ju5$t k33#(9 running.
 
 R@nni%g st()ps 1t fr0^^ b#R3ing real. RuNI3#@!$@#$-" (379)
+---
+"You lie d0wn am()@#*U&ngst the broken forms of your friends, old &Nlkjnd new alike. Tears run down you(|\&*(& cheeks, mingling with blo@#$@#$#$%#@%)_@)#$
+
+The1{{{|*(&r faces look at you. Pleading. Acc$()^*&ing. Faces frozen in agony, all because you #$@)$#%$
+
+It doesn't have to end like this.
+
+The voice. The one that #@$%
+
+You can save them. You know what to do.
+
+Slowly you rise and @#($*@)(@_#$@@-" (483)
+EOF
