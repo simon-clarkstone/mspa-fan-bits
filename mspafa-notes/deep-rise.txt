@@ -37,6 +37,7 @@ the Ceiling Oooze (103)
 
 "servitor" - slave things (52) "practical servitor assembly class" (127)
 made of other organisms (147)
+- washing servitor, has flow control integrated (157)
 - providence servitor: food (92)
 - squidpad servitor: ?? Cheerwit has one
 - nanny servitor (136)
@@ -54,6 +55,7 @@ voices plural (75)
 ---
 ?? - Ramaniculs Machinartisan (92) - green
 Mechanical guy
+Doesn't like waste of brainpower (e.g. 157)
 ---
 Cao (roommate) - Cheertwit Explorascen of House Joviolate (111) - yellow, skyblue
 - family make servitors
