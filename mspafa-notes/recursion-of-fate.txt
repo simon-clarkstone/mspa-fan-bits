@@ -1,4 +1,5 @@
 SMyth - roughly sburb logo but with anvil
+there now is a corrupted session as well as the current one (502)
 menu is solid (432)
 screen options - cameras, map
 chat options - ??
@@ -115,9 +116,16 @@ charming
 cane
 knows Erik
 ---
-sythesizedQuintessence (479), 16 (493) - lavender#9999ff -
-about to exit "the Cave"
+Hershel Crescel(497), 16 (493) - sythesizedQuintessence (479)/lavender#9999ff -
+about to exit "the Cave" (parents' basement (497))
 "anxiety disorder"
+self sufficient; useless information (497)
+interested in magical computing (497)
+room layout (497):
+- N: computer, tv, gaming systems
+- E: fridge, washing machine, cooker, bathroom door
+- S: couch, bed
+- W: desk, magical code posters
 ---
 Erik (385) - jungianUmbrage/#6D8354 - has "THE DEFENDER"
 kinda dangerous
@@ -148,7 +156,7 @@ CLOCKWORK DEVISER
 doesn't understand playground (346)
 ---
 TODO:
-Geoffry, Vic, Jon, Erik at Chester's house.
+Lindsay, Henrick, Geoffry, Vic, Jon, Erik at Chester's house.
 Chester is with Kaylyn; Liz is a 2 km away, NE (461)
 Chester's phone is still in the house. (476)
 What is Erik doing what with Victoria?
