@@ -1,7 +1,5 @@
 graduation (46)
 apprenticeship (left family estate)
-messy room-mate
-- interested in humans (84)
 professors (46)
 the city's ROYAL: Tender Hater of the Surface that Lashes us with Kindness (120)
 - twinkling light
@@ -17,13 +15,14 @@ no clockwork (84)
 no professional fashion (115)
 about human size (92)
 really insistant about burning blood (92 etc)
+- to stop it regenerating new bodies ("Cast Offs") (164)
 some sort of "favor" and "clout" currency from elders, professors, family (98)
 
+incubation (properly-forming people) (164)
 given name, vocational name (26)
 clustery mind
 - "11/17ths" (92)
 - detachable limbs (111)
-young
 human vision (?)
 
 Food:
@@ -52,6 +51,7 @@ voices plural (75)
 -- (animal import monopoly) (143)
 -- but not that often (143)
 - "Bloomed from the Flank of Splitareitrix Emboldened The Eldest of House Quoriaka" (103)
+young
 ---
 ?? - Ramaniculs Machinartisan (92) - green
 Mechanical guy
@@ -64,6 +64,8 @@ rather rich (103)
 some kind of weird love=hate thing going on (68)
 + Squidpad Servitor "Scribble Cute" (111)
 + Incubator (bio fabber) (115)
+messy
+interested in humans (84)
 
 ---
 TODO: Cheerwit acquire human
