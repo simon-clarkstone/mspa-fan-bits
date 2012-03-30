@@ -17,6 +17,7 @@ about human size (92)
 really insistant about burning blood (92 etc)
 - to stop it regenerating new bodies ("Cast Offs") (164)
 some sort of "favor" and "clout" currency from elders, professors, family (98)
+- is numeric, computed by servitors (174)
 
 dorm layout and plans (170)
 
@@ -38,7 +39,7 @@ the Ceiling Oooze (103)
 Community Sludge from city canals (170)
 
 "servitor" - slave things (52) "practical servitor assembly class" (127)
-made of other organisms (147)
+made of other organisms (147) via blood into wounds (174)
 - washing servitor, has flow control integrated (157)
 - providence servitor: food (92)
 - squidpad servitor: ?? Cheerwit has one
@@ -51,8 +52,10 @@ voices plural (75)
 ?? (shamefully indecent) - MetaSerevaori of House Quoriaka (84) - red
 - "Apprentice of the House Quoriaka" (103)
 -- family goes to the surface and catches new creatures
+-- trade for gold (174)
 -- (animal import monopoly) (143)
 -- but not that often (143)
+--- did contact early european-americans (174)
 - "Bloomed from the Flank of Splitareitrix Emboldened The Eldest of House Quoriaka" (103)
 young
 ---
