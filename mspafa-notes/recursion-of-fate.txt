@@ -27,6 +27,7 @@ heal on entry (194, 402)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
+  brown=object, blue=concept
 + can take tree, but only get "card shaped fog" for Votam ground
 ??: ??
 chat: chatting
@@ -159,10 +160,14 @@ combat "Concepts", blood (171)
 CLOCKWORK DEVISER
 doesn't understand playground (346)
 ---
--- inevitableDownfall -- gamefaqs (515)
+?? -- inevitableDownfall/#ff4411 -- gamefaqs (515)
+censored (528)
+expecting them? (528)
 ---
 TODO:
-Lindsay, Henrick, Geoffry, Vic, Jon, Erik at Chester's house.
+Geoffry, Vic, Jon, Erik at Chester's house.
+Lindsay, Henrick at Henrick's house (528)
+Mr. Dougan and Mr. Ellis chasing SS
 Chester is with Kaylyn; Liz is a 2 km away, NE (461) being captured (515)
 Chester's phone is still in the house. (476)
 What is Erik doing what with Victoria?
