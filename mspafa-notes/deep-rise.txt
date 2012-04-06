@@ -39,6 +39,12 @@ Red Fungi-light Things from the surface (103)
 the Ceiling Oooze (103)
 Community Sludge from city canals (170)
 
+Places:
+flesh fields (199)
+chasms (199)
+perimeter (199)
+harvesting route (199)
+
 "servitor" - slave things (52) "practical servitor assembly class" (127)
 made of other organisms (147) via blood into wounds (174)
 - washing servitor, has flow control integrated (157)
@@ -76,4 +82,4 @@ messy
 interested in humans (84)
 
 ---
-TODO: Cheerwit acquire human
+TODO: Going to surface
