@@ -4,6 +4,7 @@ menu is solid (432)
 screen options - cameras, map
 chat options - ??
 Quintessal Sea: dangerous, must be traversed with a Vessel (455); unravels objects (458)
+game monsters don't have personalities but deliver canned monologues (531)
 Spirits: ??
 titles (479):
   phone number:
@@ -28,6 +29,7 @@ hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
   brown=object, blue=concept
+  red=defeated monster (301)
 + can take tree, but only get "card shaped fog" for Votam ground
 ??: ??
 chat: chatting
@@ -50,6 +52,7 @@ games room and lab in basement (landing has food storage)
 lab is Chester-only, dad's room is dad-only
 = The Vale of Twilight and Mirth - mocking trees + fruit (286); gremlins (256)
 reddish purple sky
+gremlins have "the master" (533)
 ---
 Lindsay Lovhaug, beast tamer - immortalLegionette/red/1 and 7 - young girl who broke punching bag (again)
 near Chester
@@ -111,6 +114,7 @@ name disappears (259)
 likes talking to chester
 brown hair + eyes
 Second Hand Clothing, Previously Owned Rain Gear
+looked after only by father (531)
 ---
 GEOFFREY HAGE / The Troubadour (18yo) (382) - poeticCavalier/pink=ff9999 - cares about Victoria (153)
 sci-fi, guitar, sax
@@ -119,6 +123,7 @@ cane
 knows Erik
 ---
 Hershel Crescel(497), 16 (493) - sythesizedQuintessence (479)/lavender#9999ff - STALWART ARTISAN
+writes with stutter but doesn't actually suttter (531)
 about to exit "the Cave" (parents' basement (497))
 "anxiety disorder"
 self sufficient; useless information (497)
@@ -148,6 +153,12 @@ cyclicHarvester (510) -- #000066 (350) --
 Saved Kaylyn by telling Henrik to help her into the game.
 Offers deal of help (information?) for unspecified favour in the future (510).  No bargining (515).
 ---
+?? -- inevitableDownfall/#ff4411 -- gamefaqs (515)
+censored (528)
+communicating via voice recognition + synth (531)
+expecting them? (528)
+near someone else; one of them may be "St-" (531)
+---
 supernal swordsman/suburban sniper - guy climbing hill towards houses
 + long thin package (takes time to ready and unready) / EXTENDED RANGE EXECUTION DEVICE (not human name)
 + "portal" detector (makes obnoxious sound)
@@ -160,9 +171,7 @@ combat "Concepts", blood (171)
 CLOCKWORK DEVISER
 doesn't understand playground (346)
 ---
-?? -- inevitableDownfall/#ff4411 -- gamefaqs (515)
-censored (528)
-expecting them? (528)
+Chief gremlin (531) - #006400
 ---
 TODO:
 Geoffry, Vic, Jon, Erik at Chester's house.
