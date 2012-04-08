@@ -4,7 +4,7 @@ menu is solid (432)
 screen options - cameras, map
 chat options - ??
 Quintessal Sea: dangerous, must be traversed with a Vessel (455); unravels objects (458)
-game monsters don't have personalities but deliver canned monologues (531)
+Kingdoms (537)
 Spirits: ??
 titles (479):
   phone number:
@@ -28,9 +28,12 @@ heal on entry (194, 402)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
+types: (537)
   brown=object, blue=concept
-  red=defeated monster (301)
+  red=defeated monster (301) entity (537)
+  location (537)
 + can take tree, but only get "card shaped fog" for Votam ground
+cards also have class + aspect (537)
 ??: ??
 chat: chatting
 lore: lots
@@ -172,6 +175,12 @@ CLOCKWORK DEVISER
 doesn't understand playground (346)
 ---
 Chief gremlin (531) - #006400
+Direct servant of "the Master"  (533)
+tutorial boss (537) delivers a canned monologues (531)
+---
+The Master
+Big Bad (537)+(533)
+choice between pair of NPCs to help defeat him (537)
 ---
 TODO:
 Geoffry, Vic, Jon, Erik at Chester's house.
