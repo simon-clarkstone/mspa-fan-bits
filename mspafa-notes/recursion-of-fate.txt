@@ -25,12 +25,14 @@ titles (479):
 people disappear (127) "Scions" (447) Chester,Liz,Kaylyn,?,?,?
 - each get a sacred artefact (458)
 heal on entry (194, 402)
+  they do have a health bar (546)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
 types: (537)
   brown=object, blue=concept
   red=defeated monster (301) entity (537)
+  mist=Raw Essence (550)
   location (537)
 + can take tree, but only get "card shaped fog" for Votam ground
 cards also have class + aspect (537)
@@ -39,6 +41,8 @@ chat: chatting
 lore: lots
 weapon skills can choose varying specificity
 Pips
+Embuing: Raw Essence, Class Synergy Bonuses, Aspect Multiplicity (550)
+ - dangerous (550)
 ---
 Chester Ellis, 16 - supremeSingluarity/black - coatkind
 red hair, green eyes, scowl
@@ -54,6 +58,7 @@ games room and lab in basement (landing has food storage)
 + games room: two person LOVESEAT, an OTTOMAN, and an UNCOMFORTABLE FOLDING CHAIR; tv and gamesphere are crap
 lab is Chester-only, dad's room is dad-only
 = The Vale of Twilight and Mirth - mocking trees + fruit (286); gremlins (256)
+- essence is whispy black (550)
 reddish purple sky
 gremlins have "the master" (533)
 ---
@@ -102,6 +107,7 @@ sacred relic (controller?) (452)
 + 3 cloaked captors (515) - varying species, dark blue hooded cloaks, grey robes (bowl+water) (515)
 ---
 Kaylyn Antwiller - cleverDjinn/yellow ochre=DAA520/long vowels -
+PROJECTILELAUNCHERKIND (541)
 fasion, art, nosy
 capable?
 = VoTaM (wooden room)
@@ -110,6 +116,8 @@ capable?
   - not The Warrior/Hunter/Woodsman/Wolf (422)
   - thought that Kaylyn was "Sleeping Beauty" (424)
   - "We stood and fought, but you ran away." (429)
++ Germlin
+  (Club/Slingshot Combotech 1: Sticks and Stones!)
 ---
 JON RAINES (male, 11) - eeternalSolitood/fleshpink=ffcc99/phonetic vowels - 
 sekond tiem deeling with thees shenanigans
