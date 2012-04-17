@@ -85,6 +85,7 @@ prophecy; combat training + swords ("VAGUS")
 - discovered the Titles (470)
 dark past (145); foster homes, rents
 "The new girl" (362)
+knows Erik (558)
 ---
 ELIZABETH DOUGAN - unkownShadown/blue#3399ff -
 16, friend of kaylyn=cleverDjinn
@@ -123,7 +124,7 @@ GEOFFREY HAGE / The Troubadour (18yo) (382) - poeticCavalier/pink=ff9999 - cares
 sci-fi, guitar, sax
 charming
 cane
-knows Erik
+<> Erik (566)
 ---
 Hershel Crescel(497), 16 (493) - sythesizedQuintessence (479)/lavender#9999ff - STALWART ARTISAN
 writes with stutter but doesn't actually suttter (531)
@@ -139,6 +140,9 @@ room layout (497):
 ---
 Erik (385) - jungianUmbrage/#6D8354 - has "THE DEFENDER"
 kinda dangerous
+but hoonest (558)
+can HIDE self/things (555)
+another sleeping beauty reference (558)
 ---
 "lemat" - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
 RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
@@ -183,7 +187,9 @@ Big Bad (537)+(533)
 choice between pair of NPCs to help defeat him (537)
 ---
 TODO:
-Geoffry, Vic, Jon, Erik at Chester's house.
+Jon at Chester's house.
+Vic in abandoned gas station (555), Geoffry going there (566)
+Erik left her (566)
 Lindsay, Henrick at Henrick's house (528)
 Mr. Dougan and Mr. Ellis chasing SS
 Chester is with Kaylyn; Liz is a 2 km away, NE (461) being captured (515)
