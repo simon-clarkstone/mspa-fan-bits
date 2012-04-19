@@ -29,6 +29,7 @@ clustery mind
 - "11/17ths" (92)
 - detachable limbs (111)
 human vision (?)
+can get thousands of years old (251)
 
 Food:
 roast surface (plains) ape (34)
@@ -48,6 +49,7 @@ harvesting route (199)
 
 "servitor" - slave things (52) "practical servitor assembly class" (127)
 made of other organisms (147) via blood into wounds (174)
+use recipes + need certain component animals (251)
 - washing servitor, has flow control integrated (157)
 - providence servitor: food (92)
 - squidpad servitor: ?? Cheerwit has one
