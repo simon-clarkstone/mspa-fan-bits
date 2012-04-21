@@ -90,6 +90,8 @@ prophecy; combat training + swords ("VAGUS")
 - discovered the Titles (470)
 dark past (145); foster homes, rents
 "The new girl" (362)
+knows Erik (558)
+Sometimes jams lemat's viewer (568)
 ---
 ELIZABETH DOUGAN - unkownShadown/blue#3399ff -
 16, friend of kaylyn=cleverDjinn
@@ -131,7 +133,7 @@ GEOFFREY HAGE / The Troubadour (18yo) (382) - poeticCavalier/pink=ff9999 - cares
 sci-fi, guitar, sax
 charming
 cane
-knows Erik
+<> Erik (566)
 ---
 Hershel Crescel(497), 16 (493) - sythesizedQuintessence (479)/lavender#9999ff - STALWART ARTISAN
 writes with stutter but doesn't actually suttter (531)
@@ -147,13 +149,31 @@ room layout (497):
 ---
 Erik (385) - jungianUmbrage/#6D8354 - has "THE DEFENDER"
 kinda dangerous
+but hoonest (558)
+can HIDE self/things (555)
+another sleeping beauty reference (558)
 ---
-"lemat" - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
+"lemat" / "the Jester" (568) - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
 RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
 RUNIAMSOSORRYFORGIVEME I'D REALLY SUGGEST NOT LOOKING OUT YOUR WINDOW.
 white mask with smile
-in dark featureless room
+in dark featureless room, eclectic decoration (579)
 kinda teasy
+mad, with unclear thoughts (573)
+watching adventure on computer screen without vision control (568)
+hints of sadism (568) (573)
+THEPAINWHYCANTIENDITITKEEPSHAPPENGITKEEPSHAPPENINGITKEEPSHAPPENINGITKEEPSHAPPENING (568)
+> LOSETHEGAME - OHGODIALREADYHAVE (573)
+> STAIRS - STOPITPLEASE (573)
+> ITSNOTYOURFAULT - AREYOUMOCKINGMEISUPPOSEIDESERVEIT (573)
+> NOBODYBLAMESYOULEMAT - THATSBECAUSENOBODYISLEFT (579)
+> WHOAREYOU - IAMTHATWHICHREMAINSNOTHINGPITIFULHATEFUL (579)
++ pet "Scruffles" (568) puppy (573)
+= stone walls, red carpet (573), mad architecture (579)
+- own rooom > stairs down > circular room @12. (573)
+-- yellow-orange @1,5,6,10, silver @3,9 (579)
+- dead guy in basement? (579)
+- outside has fields (568) and bridges (573) and garden (579)
 ---
 amaterasuReborn/ltgreen#66ff00/correct
 somewhere in causal chain (246)
@@ -191,12 +211,13 @@ Big Bad (537)+(533)
 choice between pair of NPCs to help defeat him (537)
 ---
 TODO:
-Geoffry, Vic, Jon, Erik at Chester's house.
+Jon at Chester's house.
+Vic in abandoned gas station (555), Geoffry going there (566)
+Erik left her (566)
 Lindsay, Henrick at Henrick's house (528)
 Mr. Dougan and Mr. Ellis chasing SS
 Chester is with Kaylyn; Liz is a 2 km away, NE (461) being captured (515)
-Chester's phone is still in the house. (476)
-What is Erik doing what with Victoria?
+Chester's phone was still in the house. (476)
 Kaylyn owes Chester $5 since Hershel got involved ;-) (510)
 
 "Linsday is out of b!^eath. That fact alone says some%&$thing, as she is one of the most athletic people you know.
@@ -214,6 +235,7 @@ Y^%^ look at the hole in the w@#$%#ll. You look toward#$s the hole in the w$^%&n
 You line up your vision, checking the path that the bullet travelled. It seems the sh0#$%ter stood quiet a distance away, @#n that hilltop there.
 
 Now that you hav-"
+(154); Probably can't happen since the house blew up before Vic arrived.
 ---
 "R(_)n. Ke3p |^unN1n@34, ju5$t k33#(9 running.
 
