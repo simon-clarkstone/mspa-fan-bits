@@ -10,7 +10,7 @@ titles (479):
   phone number:
   The Charlatan (chester/lindsay)
   The Messanger
-  The Keeper
+  The Maiden Keeper - Kaylyn (610)
   The Arbiter
   The Alchemist
   The Warrior
@@ -108,7 +108,7 @@ sacred relic (controller?) (452)
 + Bryn (455) (Indwelling) - #3399ff,#ff3333
 + 3 cloaked captors (515) - varying species, dark blue hooded cloaks, grey robes (bowl+water) (515)
 ---
-Kaylyn Antwiller - cleverDjinn/yellow ochre=DAA520/long vowels -
+Kaylyn Antwiller [The Maiden Keeper (610)] - cleverDjinn/yellow ochre=DAA520/long vowels -
 PROJECTILELAUNCHERKIND (541)
 fasion, art, nosy
 capable?
