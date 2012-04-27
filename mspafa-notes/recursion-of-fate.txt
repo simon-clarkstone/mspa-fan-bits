@@ -37,9 +37,12 @@ types: (537)
 + can take tree, but only get "card shaped fog" for Votam ground
 cards also have class + aspect (537)
 ??: ??
+swap: send items to players (613)
 chat: chatting
 lore: lots
 weapon skills can choose varying specificity
+armour adapts to you to some degree (613)
+sleeping potions knock you out (616)
 Pips
 Embuing: Raw Essence, Class Synergy Bonuses, Aspect Multiplicity (550)
  - dangerous (550)
