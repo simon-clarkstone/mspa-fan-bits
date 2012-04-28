@@ -1,0 +1,34 @@
+body {
+  background-color: #efe;
+}
+h1, h2, p {
+  color: #050;
+}
+h2 {
+  font-size: large;
+}
+td {
+  vertical-align: top;
+  border: thin solid #585;
+  padding: 1ex;
+}
+.input, .output {
+  white-space: pre-wrap;
+  font-family: monospace;
+  border: none;
+  width: 100%;
+  min-height: 10ex;
+  min-width: 70ex;
+  color: #005;
+}
+.input {
+  background: #ddf;
+}
+.output {
+  background: #eef;
+}
+.output strong {
+  background-color: #fbb;
+  font-weight: normal;
+  color: #b00;
+}
