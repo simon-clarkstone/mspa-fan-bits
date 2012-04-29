@@ -7,11 +7,11 @@
 
 /* constant things */
 var outputEle, goEle, resetEle, chunks;
-function onload() {
+function onload_page() {
   outputEle = document.getElementById("output");
   goEle = document.getElementById("go");
   resetEle = document.getElementById("reset");
-  chunks = loadData(document.getElementById("data").innerText);
+  chunks = loadData(document.getElementById("data").innerHTML);
   reset();
 }
 
@@ -26,7 +26,7 @@ function go() {
 function reset() {
   clearTimeout(timer);
   timer = "No Timer";
-  outputEle.innerText = "";
+  outputEle.innerHTML = "";
   goEle.disabled = false;
   resetEle.disabled = true;
 }
@@ -59,14 +59,14 @@ function tick() {
     var chunk = chunks[i];
     newText = newText + chunk.text.substring(0, textPosAtTime(chunk, songTime/1000));
   }
-  outputEle.innerText = newText + "_";
+  outputEle.innerHTML = newText + "_";
   timer = setTimeout("tick()", 10);
 }
 
   </script>
   <title>>[S]Kaylyn: Shield Chester.</title>
 </head>
-<body onload="onload();">
+<body onload="onload_page();">
   <pre id="data" style="display:none">
 As the Chief's weapon approaches her, Kaylyn stands firm.  Whatever happens at this point, she will not back down.  Not when there are people who depend on her.  Her thoughts wander to the prone figure behind her, helpless without her protection.  They wander further to Liz, being taken to God only knows where. Helpless.  She knows she shouldn't think like that, but there's really no-one else.  The only one who can do anything is her.  The only one who can save everybody is her.@20@@21@
 
