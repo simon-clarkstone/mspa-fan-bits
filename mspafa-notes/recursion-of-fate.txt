@@ -5,6 +5,8 @@ screen options - cameras, map
 chat options - ??
 Quintessal Sea: dangerous, must be traversed with a Vessel (455); unravels objects (458)
 Kingdoms (537)
+  The Calix (637) Theocracy (634) (nine orders/gods: The Whisperer, The Lady, The Mother, The Judge, The Weaver, The Storyteller, The Huntress, The Stranger, and The Scribe (637))
+  Kingdom of Cristallum + City of Roots and Tunnels (634)
 Spirits: ??
 titles (479):
   phone number:
@@ -111,6 +113,15 @@ Umbrella, fire (350)
 sacred relic (controller?) (452)
 + Bryn (455) (Indwelling) - #3399ff,#ff3333
 + 3 cloaked captors (515) - varying species, dark blue hooded cloaks, grey robes (bowl+water) (515)
+= Ship on the Quintessal Sea (626), she was in Captain's room (634)
++ Crew with robes
++ "Kelvan Seastrider, Navigational Brother and captain of the Lady's Mercy" (631) - slightly wide font (Comic Sans) - seems nice
+  says Bryn is evil (634) and has a Mistress (637)
+  in the Order (634) of the Path Mysterious (637)
+    devoted to the Lady, of the Calix Theocracy, who reveals the "Great Mysteries" (637)
+  + ?? - #DDA0DD (634)
+  + ?? - #00FF00 (634)
+  + Carving Sister (Hivefolk) (634)
 ---
 Kaylyn Antwiller [The Maiden Keeper (610)] - cleverDjinn/yellow ochre=DAA520/long vowels -
 PROJECTILELAUNCHERKIND (541)
@@ -232,12 +243,13 @@ Big Bad (537)+(533)
 choice between pair of NPCs to help defeat him (537)
 ---
 TODO:
-Jon + Vic's phone+sword going to Vic? (607)
-Vic + Geof in abandoned gas station (555) + (607)
-Erik left her (566)
-Lindsay, Henrick at Henrick's house (528)
+Jon + Vic's phone+sword going to Henrik (625)
+Vic + Geof going to Henrik's house (625)
+Erik left Vic (566)
+Lindsay, Henrick at Henrick's house (528) (625)
 Mr. Dougan and Mr. Ellis chasing SS
 Chester is with Kaylyn; Liz was a 2 km away, NE (461) being captured (515) but now in a bed (607)
+Liz in ship to City of Roots and Tunnels, just within the borders of the Kingdom of Cristallum > Theocracy territory (634)
 Chester's phone was still in the house. (476)
 Kaylyn owes Chester $5 since Hershel got involved ;-) (510)
 
