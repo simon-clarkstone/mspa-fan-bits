@@ -32,6 +32,7 @@ deck: stores 7 unused cards?
 types: (537)
   brown=object, blue=concept
   red=defeated monster (301) entity (537)
+    - requires defeat (+randomness) or permission (except plants) (621)
   mist=Raw Essence (550)
   location (537)
 + can take tree, but only get "card shaped fog" for Votam ground
@@ -116,6 +117,7 @@ PROJECTILELAUNCHERKIND (541)
 fasion, art, nosy
 capable?
 "savey thing" (591)
+  - insistent "must save" feeling (621)
 = VoTaM (wooden room)
 + paddlefoot - #8B4513 - rubber chicken
 + ?? - #ffff00 - rags
