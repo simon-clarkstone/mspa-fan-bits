@@ -3,6 +3,7 @@ apprenticeship (left family estate)
 professors (46)
 the city's ROYAL: Tender Hater of the Surface that Lashes us with Kindness (120)
 - twinkling light
+- massive thing in city (258)
 
 can't fly
 can swim
@@ -12,6 +13,8 @@ doesn't recognise clouds
 no bones
 no plants (84)
 no clockwork (84)
+not much metals (258)
+- especially via electrolysis (258)
 no professional fashion (115)
 about human size (92)
 really insistant about burning blood (92 etc)
@@ -28,7 +31,7 @@ given name, vocational name (26)
 clustery mind
 - "11/17ths" (92)
 - detachable limbs (111)
-human vision (?)
+human vision (?) + (258)
 can get thousands of years old (251)
 
 Food:
@@ -80,11 +83,13 @@ Cao (roommate) - Cheertwit Explorascen of House Joviolate (111) - yellow, skyblu
 OVERLY FRIENDLY
 rather rich (103)
 some kind of weird love=hate thing going on (68)
-+ Squidpad Servitor "Scribble Cute" (111)
++ Squidpad Servitor "Scribble Cute" (111) rare/unique (258)
   - sister, used to be human (239)
+  - RGB (258)
 + Incubator (bio fabber) (115)
 messy
 interested in humans (84)
++ Coddling servitor (258)
 
 ---
 TODO: Going to surface
