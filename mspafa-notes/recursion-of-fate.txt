@@ -181,7 +181,7 @@ in dark featureless room, eclectic decoration (579)
 kinda teasy
 mad, with unclear thoughts (573)
 watching adventure on computer screen without vision control (568)
-  can see into Chester's hallucination, and talk to him (647)
+  can see into Chester's hallucination, and talk to him (647) and appear to him (650)
 hints of sadism (568) (573)
 likes ticking clocks (585)
 THEPAINWHYCANTIENDITITKEEPSHAPPENGITKEEPSHAPPENINGITKEEPSHAPPENINGITKEEPSHAPPENING (568)
@@ -197,6 +197,8 @@ NOAAAAAHYOUSONOFABITCHIMGOINGTOKILLYOU BURNINTHEDEEPESTHELLYOU AAAAAH (585)
 > WHATTHEFUCK - IDONTWANTTOTALKABOUTIT (591)
 DEATHTHISWILLALLENDINDEATH (616)
 NOSTOP (647)
+IWANTEDTOMAKETHISPAINLESS (650)
+GOAWAYIMTRYINGTO (650)
 + pet "Scruffles" (568) puppy (573)
 = stone walls, red carpet (573), mad architecture (579)
 - own rooom > stairs down > circular room @12. (573)
@@ -207,9 +209,13 @@ NOSTOP (647)
 - recognises Donkey Kong (647)
 ---
 amaterasuReborn/ltgreen#66ff00/correct
+being of great power (650) can detect suggestions (650)
 somewhere in causal chain (246)
 - told Chester to enter (127) and to keep climbing the cliff (339)
 seems a bit aloof
+"the only person around who will actually shout back at you, the cook" (650)
+knows Jester, almost but not quite entirely opposed to him (650)
+has "counterpart" (650)
 ---
 "t-man" (585) -- cyclicHarvester (510) -- #000066 (350) --
 mask of lamentation (585)
