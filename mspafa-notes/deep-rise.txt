@@ -4,6 +4,7 @@ professors (46)
 the city's ROYAL: Tender Hater of the Surface that Lashes us with Kindness (120)
 - twinkling light
 - massive thing in city (258)
+- usually stationary but can be very destructive (271)
 
 can't fly
 can swim
@@ -66,6 +67,7 @@ voices plural (75)
 ?? (shamefully indecent) - MetaSerevaori of House Quoriaka (84) - red
 - "Apprentice of the House Quoriaka" (103)
 -- family goes to the surface and catches new creatures
+--- for at least two ice-ages (271)
 -- trade for gold (174)
 -- (animal import monopoly) (143)
 -- but not that often (143)
