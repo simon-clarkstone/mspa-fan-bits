@@ -4,6 +4,9 @@ menu is solid (432)
 screen options - cameras, map
 chat options - ??
 Quintessal Sea: dangerous, must be traversed with a Vessel (455); unravels objects (458)
+  Ragged edges to Locations (656)
+  Sky + sea are mist, but at shore sky switches abruptly depending on *viewing direction* (?!) (656)
+  Indistinct humanoid creature with boat at shore (656)
 Kingdoms (537)
   The Calix (637) Theocracy (634) (nine orders/gods: The Whisperer, The Lady, The Mother, The Judge, The Weaver, The Storyteller, The Huntress, The Stranger, and The Scribe (637))
     Systematic afterlife roles (641)
@@ -174,6 +177,7 @@ another sleeping beauty reference (558)
 ---
 "lemat" / "the Jester" (568) - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
 boss + paying bills of "twilight band": SS and CD (583) Idea to do so came from... somewhere (583)
+trying to end "this world", but might not realise that (654)
 RUNGETOUTNOWTHERESSTILLTIME PLEASE HAVEFUNWITHYOURGAME
 RUNIAMSOSORRYFORGIVEME I'D REALLY SUGGEST NOT LOOKING OUT YOUR WINDOW.
 "mask of jubilation" (585) white mask with smile
@@ -212,6 +216,7 @@ amaterasuReborn/ltgreen#66ff00/correct
 being of great power (650) can detect suggestions (650)
 somewhere in causal chain (246)
 - told Chester to enter (127) and to keep climbing the cliff (339)
+trying to end "this world" (654)
 seems a bit aloof
 "the only person around who will actually shout back at you, the cook" (650)
 knows Jester, almost but not quite entirely opposed to him (650)
@@ -227,10 +232,13 @@ won't let lemat remove mask (585)
 mandates viewing (585)
 ---
 ?? -- inevitableDownfall/#ff4411 -- gamefaqs (515)
+In game (656)
+parton god is Doom Speaker (656)
 censored (528)
 communicating via voice recognition + synth (531)
 expecting them? (528)
 near someone else; one of them may be "St-" (531)
++ Heather -- seems nice (656)
 ---
 supernal swordsman/suburban sniper - guy climbing hill towards houses
 + long thin package (takes time to ready and unready) / EXTENDED RANGE EXECUTION DEVICE (not human name)
