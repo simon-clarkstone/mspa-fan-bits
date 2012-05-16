@@ -28,7 +28,7 @@ titles (479):
   The Dreamer
   The Betrayer
 ---
-people disappear (127) "Scions" (447) "Destined Path" (607) Chester,Liz,Kaylyn,?,?,?
+people disappear (127) "Scions" (447) "Destined Path" (607) Chester,Liz,Kaylyn(401),?,?,?
 - each get a sacred artefact (458)
 heal on entry (194, 402)
   they do have a health bar (546)
@@ -60,6 +60,7 @@ lab coat
 physics, mythology
 figurines: jupiter+juno, proserpina, mercury, minerva, diana, vulcan, janus, apollo
 likes AI, dislikes CD
+  yeah, worries about Vic at the slightest hint of trouble (677)
 delusions of logic
 father (Felix Ellis) -"episodes" (woodwork)
 mother-died during birth; also red hair
@@ -112,6 +113,7 @@ long black hair, thick rimmed glasses, icy blue eyes
 slow typer; wants to come but SS says no then yes (76)
 novels, romance+mystery
 ships SS/IL, also SS/AI, denies US/SS, (180) ships self/menu
+gets on well with lemat (677)
 + father (cop) - dkblue
 = VILLAGE OF GRAVESTONES AND WHISPERS
 stone towers, wind, black sky
@@ -192,6 +194,7 @@ watching adventure on computer screen without vision control (568)
   can see into Chester's hallucination, and talk to him (647) and appear to him (650)
 hints of sadism (568) (573)
 likes ticking clocks (585)
+gets on well with liz (677)
 THEPAINWHYCANTIENDITITKEEPSHAPPENGITKEEPSHAPPENINGITKEEPSHAPPENINGITKEEPSHAPPENING (568)
 > LOSETHEGAME - OHGODIALREADYHAVE (573)
 > STAIRS - STOPITPLEASE (573)
@@ -207,6 +210,7 @@ DEATHTHISWILLALLENDINDEATH (616)
 NOSTOP (647)
 IWANTEDTOMAKETHISPAINLESS (650)
 GOAWAYIMTRYINGTO (650)
+YOUIDIOT (677)
 + pet "Scruffles" (568) puppy (573)
 = stone walls, red carpet (573), mad architecture (579)
 - own rooom > stairs down > circular room @12. (573)
