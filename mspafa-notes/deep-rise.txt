@@ -64,7 +64,7 @@ use recipes + need certain component animals (251)
 - nanny servitor (136)
 
 "the poor sods lose so much spectrum working in the fields" (34)
-  flesh fields are sustained with blood (239)
+  flesh fields are sustained with blood (239) (308)
 "pick up a lighter and burn that blood off" (46)
 voices plural (75)
 ---
@@ -88,11 +88,13 @@ Cao (roommate) - Cheertwit Explorascen of House Joviolate (111) - yellow, skyblu
 - family make servitors
 OVERLY FRIENDLY
 rather rich (103)
+unfit (308)
 some kind of weird love=hate thing going on (68)
 + Squidpad Servitor "Scribble Cute" (111) rare/unique (258)
   - sister, used to be human (239)
   - RGB (258)
 + Incubator (bio fabber) (115)
+  sole child thereof (315)
 messy
 interested in humans (84)
 + Coddling servitor (258)
