@@ -1,3 +1,5 @@
+"flits" (52)
+glactic empire (46)
 Normally have sharp claws (9)
 red=off, blue=on (26)
 taller than humans (12)
@@ -7,10 +9,13 @@ taller than humans (12)
 [[ "fellow hunter" (31)
 ]] "Strong wings, Canopy 'tween void and so on." (31)
 
-Solar (language, nation) - humans (6)
+Solar (language, nation) - humans (6) - massive threat? (46)
+Sle'enthae - far from orion arm (46) - naga-oid (52)
 ---
 Tyr (6) (male (14)) - blue/dark purple (1)
 @ lab (2)
+lost wings at some point (46)
+  and now lost them again (50)
 1 hand now (2) and no claws (9)
 detests violence despite career (9) assassin and spy (33)
 rather likes Nyx (9)
@@ -24,12 +29,10 @@ less important than Nyx (14)
 starved (23)
 proud of wings (23)
 ---
-High Instructor Nyx (female) (4)
-founded empire (9)
-named Tyr (6)
----
-Thanatos (12)
+Thanatos (12) - black/purple (46)
 some kind of racial engineer (12)
+gave Tyr new wings (46)
+another High Instructor? (46)
 ---
 High Instructor Syn (26) - -+]o[+- (31) - brown/green (33)
 @ field (advised by Nyx) (33)
@@ -38,8 +41,15 @@ just using Tiamat (33)
 acts to Aether as if Tyr is dead (33)
 trained tyr (33)
 ---
-Aether (31) male (33) - "Nyx's lapdog" (33)
+Aether (31) male (33) - red/purple (46) - "Nyx's lapdog" (33)
+military (52)
 Fixation on Nyx (33)
+acts to Nyx as if Tyr is dead (33)
+---
+High Instructor Nyx (female) (4) - purple (46)
+founded empire (9) leader-ish of Lifeblood Alliance (46)
+named Tyr (6)
+currently blind, but Thanatos is working on it (46)
 
 
 TODO:
