@@ -1,0 +1,31 @@
+hatchmanager (1) wants to erase persunits (48)
+MAP (48)
+persunits (2)
+desiroutines (2)
+HCS level 1 features basic interaction rules (13)
+"Primesire" - purpose (13)
+"quantum compliant" (113)
+---
+blue (2) KA-S "Knowlege Access" (13) Kas (34) Cassiopea (43)
+dumped raw qunary data (9)
+doesn't like Hypatia's girlyness (29)
+---
+green (2) "Advanced Survival System" (71) Thetis (154)
+access denied (9)
+sheild/stealth/escape (80) on behalf of the whole group (98)
+introverted (89) / paranoid (98)
+---
+gold (2) "Meta Managing System" (47) Leonidas (53)
+dumped raw qunary data (9)
+primesire is "control" (47)
+---
+red (2) "General Sentry System" (71) Minos (88)
+access denied (9)
+Warfare (71)
+---
+turquoise (2) SO-S (259) SPECIAL OPERATION SYSTEM (306) Nyx (339)
+dumped raw qunary data (9)
+---
+pink (2) HC-S "Human Communicative" (13) Hypatia (26) Lt. (53)
+level 1 HSC protocol (9)
+girly (29)
