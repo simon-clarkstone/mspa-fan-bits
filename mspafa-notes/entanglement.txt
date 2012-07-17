@@ -5,6 +5,7 @@ red=off, blue=on (26)
 implants and stuff (83) (92) hackable by solars (92)
 no "romance" (74) "prototyping pool" (85)
 taller than humans (12) lighter gravity (92)
+low-light vision (126)
 canibalism (96)
 "purging" (14)
 "The senses are tools, not masters" (19)
@@ -38,10 +39,12 @@ less important than Nyx (14)
 starved (23)
 proud of wings (23)
 ---
-Kat Reynolds - officer (114)
+Kat Reynolds - officer (114) probably not (126)
 ---
-Kelly ?? - soldier (114)
+Kelly ?? - soldier (114) - seems to be the brains of the operation
 speaks the language a bit (114)
+---
+Escaped Umberl was in PR14 (128)
 ---
 Thanatos (12) - black/purple (46)
 some kind of racial engineer (12)
@@ -79,5 +82,4 @@ start at floor 4, below 2 is fire, 8 is open (78)
 TODO:
 Why eroded engraved writing in lab (12)
 Tiamat retreive Tyr + help "agent" in return for rescue, from Syn off-record (31)
-"PR14" is definitely empty (85)
 "Pvt. Brian Lockheart" (92)
