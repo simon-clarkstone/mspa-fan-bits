@@ -20,7 +20,7 @@ titles (479):
   phone number:
   The Charlatan (chester/lindsay)
   The Messanger
-  The Maiden Keeper - Kaylyn (610)
+  The Maiden Keeper - Kaylyn (610) Scion of the Mother (818)
   The Arbiter
   The Alchemist
   The Warrior
@@ -95,6 +95,7 @@ training room in basement
 doesn't like AI much
 fancies Chester
 taller than Chester (458)
+saw Chester asleep on Kaylyn (796) doesn't like it (815)
 ---
 Henrick Smith - cardinalStrategist/dk red/chess pieces -
 girlfriend is CD
@@ -124,6 +125,7 @@ long black hair, thick rimmed glasses, icy blue eyes
 slow typer; wants to come but SS says no then yes (76)
 novels, romance+mystery
 ships SS/IL, also SS/AI, denies US/SS, (180) ships self/menu
+  SS/IL conversation with Lindsay (818)
 gets on well with lemat (677)
 + father (cop) - dkblue
 = VILLAGE OF GRAVESTONES AND WHISPERS
@@ -146,6 +148,7 @@ sacred relic (controller?) (452)
   + Carving Sister (Hivefolk) (634)
 ---
 Kaylyn Antwiller [The Maiden Keeper (610)] - cleverDjinn/yellow ochre=DAA520/long vowels -
+17yo, "of Persian descent" (818)
 PROJECTILELAUNCHERKIND (541)
 fasion, art, nosy
 capable?
@@ -238,6 +241,7 @@ IWANTEDTOMAKETHISPAINLESS (650)
 GOAWAYIMTRYINGTO (650)
 YOUIDIOT (677)
 ... INSIDE THIS IDIOT ...(breakout) (702)
+GETOUTNOWHESCOMNG (815)
 + pet "Scruffles" (568) puppy (573)
 = stone walls, red carpet (573), mad architecture (579)
 - own rooom > stairs down > circular room @12. (573)
@@ -376,5 +380,10 @@ You can save them. You know what to do.
 Slowly you rise and @#($*@)(@_#$@@-" (483)
 ---
 So. Your latest vision was of you kissing Chester. (708)
+---
+The smell of baking, homey and inviting.
+A woman's laugh, quickly joined by that of a child.
+Bright red hair, making your own look dull in comparison.
+In short, snippets of a life never lived. (812)
 ---
 EOF
