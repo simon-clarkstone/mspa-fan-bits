@@ -24,7 +24,7 @@ Plythirans (74) ??
 Umberls (predator of Hunters) (131) - hate the allience (131)
 ---
 Tyr (6) (male (14)) - blue/dark purple (1)
-@floor4 (78)
+@outside with Syn (152)
 lost wings at some point (46)
   and now lost them again (50)
 1 hand now (2) and no claws (9)
@@ -55,7 +55,7 @@ gave Tyr new wings (46) "R&D" (66)
 another High Instructor? (46)
 ---
 High Instructor Syn (26) (female (55)) - -+]o[+- (31) - brown/green (33)
-@ field (advised by Nyx) (33)
+@outside with Syn (152)
 doesn't get on with Nyx (31) or Aether (33)
 just using Tiamat (33)
 acts to Aether as if Tyr is dead (33)
