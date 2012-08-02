@@ -13,6 +13,7 @@ Kingdoms (537)
     Systematic afterlife roles (641)
     Insular (738)
   Kingdom of Cristallum + City of Roots and Tunnels (634)
+    CoRaT is underground (827)
     capital is Fortress of Spirit and Mist (738)
     melting-pot: Plains of Dust and Sojourn (i.e. pilgrimmage) (738)
 Spirits: ??
@@ -32,6 +33,7 @@ titles (479):
   The Dreamer
   The Betrayer
 ---
+ages order, some entry stuff (822)
 people disappear (127) "Scions" (447) "Destined Path" (607)
   Chester,Liz,Kaylyn(401),Herschel(767),Henrick(767),?,?,?,?
 - each get a sacred artefact (458)
@@ -91,6 +93,7 @@ phone is not "device designed by mortal hand" (28)
 + father (Saul-slightly dk red) - staff - loving, but physical challenge - knows what is going to happen - dog-whisperer
 + dogs (incl Demon; the Beast)
   Demon has paralyzing voice
+  Beast helped chase off SS (822(
 training room in basement
 doesn't like AI much
 fancies Chester
@@ -330,14 +333,15 @@ Erik left Vic (566) Wants to play smyth (705)
 Vic's phone+sword at Henrik's house (683) ?? (760)
 how did Erik end up with knocked-out Geoffrey? (758)
 and hostage Jon with SS (758)?  SS botched mission (760)?
-Lindsay, Henrick at Henrick's house (528) (625)
+  Due to Beast intervening (822)
+Beast going to Lindsay'd house (822)
 Lindsay + Vic + "catatonic boy" (Geof?) going to Lindsay's house (760)
   Probably at Lindasay's house now (796)
 Mr. Dougan and Mr. Ellis chasing SS
 Hershel and Henrick are in-game (773)
 Liz and HB now going to Fortress of Spirit and Mist (theocracy cap), via Plains of Dust and Sojourn (738)
-  She has told Kaylyn at least (747)
-Chester and Kaylyn heading to CoRaT (647) asleep (747)
+  She has told Kaylyn at least (747) Kaylyn and Chester know (824)
+Chester and Kaylyn heading in CoRaT (827)
 Paddlefoot + rags going after Kaylyn (760)
 -
 Chester's phone was still in the house. (476)
