@@ -16,6 +16,8 @@ canibalism (96)
 ]] "Canopy 'tween Void and home, Spring comfort your weary wings.
    // Strong winds to carry you on your flight, and fresh blood on your claws." (104)
 
+Father = distant sun, mother = ground (156)(159)
+
 shipping chart (40)
 
 Solar (language, nation) - humans (6) - massive threat? (46)
@@ -49,14 +51,14 @@ speaks the language a bit (114)
 Escaped Umberl was in PR14 (128)
 Calls Tiamat "pretender" (128) (131)
 ---
-Thanatos (12) - black/purple (46)
+Thanatos (12) - black/purple (46) - "sharpwit" (159)
 some kind of racial engineer (12)
 gave Tyr new wings (46) "R&D" (66)
 another High Instructor? (46)
 ---
 High Instructor Syn (26) (female (55)) - -+]o[+- (31) "poet" (156) - brown/green (33)
 @outside with Syn (152)
-Born 1155 (156)
+Born 1155 (156)  Named someone "sharpwit" (156)
 doesn't get on with Nyx (31) or Aether (33)
 just using Tiamat (33)
 acts to Aether as if Tyr is dead (33)
@@ -65,11 +67,12 @@ acts to Aether as if Tyr is dead (33)
     or matbe not ()
 trained tyr (33)
 ---
-Aether (31) male (33) - red/purple (46) - "Nyx's lapdog" (33)
+Aether (31) male (33) - red/purple (46) - "Nyx's lapdog" (33) "hunter" (159)
 military (52)
 Fixation on Nyx (33)
 acts to Nyx as if Tyr is dead (33)
 Doesn't like Tyr (101)
+Knew Thanatos way back (159)
 ---
 High Instructor Nyx (female) (4) - purple (46)
 founded empire (9) leader-ish of Lifeblood Alliance (46)
