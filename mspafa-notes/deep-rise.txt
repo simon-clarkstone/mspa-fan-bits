@@ -16,6 +16,7 @@ many feet
 knows what bunnies are
 doesn't recognise clouds
 no bones
+"pulses" (319)
 no plants (84)
 no clockwork (84)
 not much metals (258)
@@ -30,8 +31,14 @@ some sort of "favor" and "clout" currency from elders, professors, family (98)
 
 dorm layout and plans (170)
 
+SCIENCE! (385) (394)
+flesh is fairly weak, it is blood that is powerful; can resurrect things a bit (394)
+blood can enhance after damage; becomes vitally addictive after a point; "improved endurance to strenuous activity" (403)
+
 incubation (properly-forming people) (164)
-bloomling (176)
+"Its really not healthy that you never..." (355)
+can delay development (341)
+bloomling (176) traumatic birthing (326)
 given name, vocational name (26)
 clustery mind
 - "11/17ths" (92)
@@ -50,15 +57,16 @@ the Ceiling Oooze (103)
 Community Sludge from city canals (170)
 
 Places:
-flesh fields (199)
+flesh fields (199) implements (349)
 chasms (199)
 perimeter (199)
 harvesting route (199)
+delver's camp, upper caverns (349)
 
 "servitor" - slave things (52) "practical servitor assembly class" (127)
 made of other organisms (147) via blood into wounds (174)
 use recipes + need certain component animals (251)
-- washing servitor, has flow control integrated (157)
+- washing servitor, has flow control integrated (157) needed work to remember its better past; died when it ran out (326)
 - providence servitor: food (92)
 - squidpad servitor: ?? Cheerwit has one
 - nanny servitor (136)
@@ -68,7 +76,7 @@ use recipes + need certain component animals (251)
 "pick up a lighter and burn that blood off" (46)
 voices plural (75)
 ---
-?? (shamefully indecent) - MetaSerevaori of House Quoriaka (84) - red
+S'raah (464) (shamefully indecent) - MetaSerevaori of House Quoriaka (84) - red
 - "Apprentice of the House Quoriaka" (103)
 -- family goes to the surface and catches new creatures
 --- for at least two ice-ages (271)
@@ -83,6 +91,7 @@ seems to be a pervert for wanting uncontrolled reproduction (192)
 ?? - Ramaniculs Machinartisan (92) - green
 Mechanical guy
 Doesn't like waste of brainpower (e.g. 157)
+now missing a foot (301)
 ---
 Cao (roommate) - Cheertwit Explorascen of House Joviolate (111) - yellow, skyblue
 - family make servitors
@@ -102,4 +111,11 @@ interested in humans (84)
 Haipieijit the Ever Becoming, Eldest of House Joviolate (319) - creator of Cheertwit
 + Cheertwit's arm
 ---
+Euryale (433) (441)
+glue dust gun (433)
+---
+supplies (375)
+Royal's Emulsion Lantern With the Replacement Cakes of Dried and Refined Royal's Blood
+Rations and Fire Solution, Lighters, Treated Surface Cloaks, Polymerized Fleshfield leather Tarps, Styluses 
+Flesh Carver, Kre'nekk, Stone Flensers, Crafting Incisors
 TODO: Going to surface
