@@ -39,6 +39,7 @@ people disappear (127) "Scions" (447) "Destined Path" (607)
 - each get a sacred artefact (458)
 heal on entry (194, 402)
   they do have a health bar (546)
+  and hunger (842)
 hand: stats, kit, skills
 deck: stores 7 unused cards?
 + have card-storage for items
@@ -59,6 +60,7 @@ armour adapts to you to some degree (613)
 sleeping potions knock you out (616)
 Pips
   "a few high profile clerics of the Theocracy would be worth thousands of pips in ransom" (738)
+  "cheapest item on the menu" was 5 pips (842)
 Embuing: Raw Essence, Class Synergy Bonuses, Aspect Multiplicity (550)
  - dangerous (550)
 ---
@@ -80,6 +82,10 @@ lab is Chester-only, dad's room is dad-only
 - essence is whispy black (550)
 reddish purple sky
 gremlins have "the master" (533)
+= CoRaT bar
+  barman - #800080 - humanish (842)
+  bonttino card game (842)
+  menu is in new alphabet (842)
 ---
 Lindsay Lovhaug, beast tamer - immortalLegionette/red/1 and 7 - young girl who broke punching bag (again)
 can be a little un-trusting with "new" people (671)
@@ -93,7 +99,7 @@ phone is not "device designed by mortal hand" (28)
 + father (Saul-slightly dk red) - staff - loving, but physical challenge - knows what is going to happen - dog-whisperer
 + dogs (incl Demon; the Beast)
   Demon has paralyzing voice
-  Beast helped chase off SS (822(
+  Beast helped chase off SS (822)
 training room in basement
 doesn't like AI much
 fancies Chester
