@@ -10,6 +10,9 @@ low-light vision (126)
 canibalism (96)
 "purging" (14)
 "The senses are tools, not masters" (19)
+"There should be no afterlife!" (168)
+"Learning there was an afterlife would probably be the worst part of death as far as your concerned,\
+  and you aren't alone in that." (168)
 "void" is an expletive (23) "Your heart would welcome the void" (33)
 [[ "fellow hunter" (31)
 ]] "Strong wings, Canopy 'tween void and so on." (31)
@@ -17,6 +20,7 @@ canibalism (96)
    // Strong winds to carry you on your flight, and fresh blood on your claws." (104)
 
 Father = distant sun, mother = ground (156)(159) No, she is some dangerous celestial object (165)
+  "firey fathers" are balls of plasma (168)
 Calendar (165)
 
 shipping chart (40)
@@ -36,7 +40,7 @@ rather likes Nyx (9)
 Syn's protege (33)
 outranks Tiamat (60)
 ---
-Tiamat (14) - turquoise/purple (2)
+Tiamat (14) - turquoise/purple (2) - "cog" (166)+(168)
 @floor8 (87)
 "field asset" (33)
 dosen't like govt (14)
@@ -82,6 +86,8 @@ currently blind, but Thanatos is working on it (46) blinded ages back (165)
 ---
 "Night" (66)??
 ---
+mystery voice (166)
+@with Tiamat (166)
 
 On a planet apparently (78)
 start at floor 4, below 2 is fire, 8 is open (78)
@@ -91,3 +97,5 @@ TODO:
 Why eroded engraved writing in lab (12)
 Tiamat retreive Tyr + help "agent" in return for rescue, from Syn off-record (31)
 "Pvt. Brian Lockheart" (92)
+Tiamat is in a void (166) OR being carried by Kelly and Kat (152)
+Tyr is outside being carried by Syn (152)
