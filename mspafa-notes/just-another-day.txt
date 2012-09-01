@@ -31,7 +31,9 @@ in 1845 (191), in holiday house in important location (197) FAMILY TREE (197)
 "Where did your parents meet?" (167)
 Clockwork family, "A Simon at the start of the fourth rise, and a Simon at the end of it" (176)
 drawers contain gears, clockwork sword (186)
+typewriter = Lettographer (194)
 "one of your uncle's friends, Mr. Turri" (194) Uncle is Charles Babbage (242)
+Room is on second storey of house; does this match Jason's? (258)
 ---
 (friend with hair) (125)
 ---
@@ -56,11 +58,13 @@ rent due soon (96)
 has portal nest (143) goes to Simon's room (152)(162)(181)
 @ far side of window portal (99)
 ---
-?? -- rewind (251)
+"Jaz" / Jasmine Statler (258) -- rewind (251)
 8154, finally reopened the planet Earth for colonisation (251)
+Last human; on "Earth 0" on the run from Andromeda (258)
+basement is probably the same as Jason's (251)(235)
 ---
 diamondian (106)
- "spadens", "clubians" (106)
+ "spadens", "clubians" (106) Spadens (258)
 Spaden-Horun war (251)
 ---
 TODO:
@@ -74,3 +78,4 @@ brent is in other world (stuck outside room, near large pile) (251)
 yukki is in house
 simon is in his house
 Shard in Simon's room (247)
+Jaz is in the basement, waiting for Simon (258)
