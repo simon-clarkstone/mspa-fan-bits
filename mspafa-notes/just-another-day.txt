@@ -31,7 +31,7 @@ in 1845 (191), in holiday house in important location (197) FAMILY TREE (197)
 "Where did your parents meet?" (167)
 Clockwork family, "A Simon at the start of the fourth rise, and a Simon at the end of it" (176)
 drawers contain gears, clockwork sword (186)
-typewriter = Lettographer (194)
+typewriter = Lettographer (194) now broken (265)
 "one of your uncle's friends, Mr. Turri" (194) Uncle is Charles Babbage (242)
 Room is on second storey of house; does this match Jason's? (258)
 ---
@@ -57,6 +57,7 @@ steals things from inventory (72)
 rent due soon (96)
 has portal nest (143) goes to Simon's room (152)(162)(181)
 @ far side of window portal (99)
+intelligent now (106)
 ---
 "Jaz" / Jasmine Statler (258) -- rewind (251)
 8154, finally reopened the planet Earth for colonisation (251)
@@ -67,6 +68,8 @@ basement is probably the same as Jason's (251)(235)
  - lizard (260)
 has artificial sun for light (260)
 ---
+lizard (265)
+---
 diamondian (106)
  "spadens", "clubians" (106) Spadens (258)
 Spaden-Horun war (251)
@@ -76,12 +79,14 @@ Jason, get key to room from magpie (72), unlock room from inside (74), fetch los
 Brent: why is rad-energy coming from Jason's room? (81)
 Brent: hunt bird (86)
 what is behind flames in simon's fireplace? (188)
-Simon: deliver sword and a note (260)
+Clockwork bronze-and-copper pincer sword + note going to Jason to send to Jasmine. (265)
 ---
+inventories last seen: luke (57) brent (260)
 jason is in room (
-brent is in other world (stuck outside room, near large pile) (251)
+brent is in other world (stuck outside room, near large pile) (251) heading towards town through dangerous forest, near magpie (265)
 - gun, 3 marbles, window (260)
 yukki is in house
 simon is in his house
-Shard in Simon's room (247)
+Shard in Simon's room (247) Cannot leave table or enter cage (265)
 Jaz is in the basement, waiting for Simon (258)
+Lizard is in cage (265)
