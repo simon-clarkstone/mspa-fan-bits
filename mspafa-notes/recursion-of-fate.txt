@@ -105,7 +105,7 @@ sculpture
 violin in attic, and books with no words in them (867)
   mother's (872)
 phone is not "device designed by mortal hand" (28)
-+ father (Saul-slightly dk red) - staff - loving, but physical challenge - knows what is going to happen - dog-whisperer
++ father (Saul-#cc0000) - staff - loving, but physical challenge - knows what is going to happen - dog-whisperer
 + mother (872)
 + dogs (incl Demon; the Beast)
   Demon has paralyzing voice
@@ -236,6 +236,7 @@ can HIDE self/things (555)
 another sleeping beauty reference (558)
 has a Secret that is something to do with him knowing about Smyth (758)(867) has a plan (863)
   something about his face (567)(896)(899)
+  can't be geoff's father; probably his identical twin (903)
 has cache near lindsay's house (863)
 ---
 "lemat" / "the Jester" (568) - comicallyUnhelpful/orange/capitalised subtext - troll, chester thinks male (79)
@@ -334,6 +335,7 @@ combat "Concepts", blood (171)
 Doesn't like Delegator much (688)
 knows Jon (708), in communication with future Jon (712)
 light leather armour (764)
+got kicked in the fork (907)
 ---
 CLOCKWORK DEVISER
 doesn't understand playground (346)
@@ -365,7 +367,6 @@ how did Erik end up with knocked-out Geoffrey? (758)
   Erik is wearing a pristine white suit with red tie, the Defender (863) fencing mask (876) injured hand (890)
 and hostage Jon with SS (758)?  SS botched mission (760)?
   Due to Beast intervening (822)
-Beast going to Lindsay'd house (822)
 Demon in mother's room (872)
 Lindsay + Vic + "catatonic boy" (Geof?) going to Lindsay's house (760)
   Probably at Lindasay's house now (796)
@@ -373,6 +374,8 @@ Lindsay probably in mother's room with Erik (881)
 Vic downstairs, but something happened (863)
 Mr. Dougan and Mr. Ellis chasing SS, still? (872)
 Mr Lovhaug at pharmacy? (872) Mrs Lovhaug at flower shop? (872)
+  he is unconscious with SS, and the "VIC..." sword is there (912)
+CD almost at next location (904)
 Hershel and Henrick are in-game (773)
 Liz and HB now going to Fortress of Spirit and Mist (theocracy cap), via Plains of Dust and Sojourn (738)
   She has told Kaylyn at least (747) Kaylyn and Chester know (824)
