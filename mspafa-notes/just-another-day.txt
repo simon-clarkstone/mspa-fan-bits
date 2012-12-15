@@ -3,7 +3,7 @@ Just Another Day  http://mspaforums.com/showthread.php?48866-Just-Another-Day
 artifacts, EC>1000, Safe/Uklid/Cieter (299)
 only 1 Other World (299)
 pets are at scale human/100 (302)
-
+diamond=light blue (302); heart=pink (323)
 DON'T POST TOO MANY SUGGESTIONS AT ONCE (277)
 
 ---
@@ -44,7 +44,7 @@ small gap under door (277) pretty small (283)
 Shard (219) - small bird, "forgets everything every 48 hours" (186) cannot fly? (211)
 light based food (186)
 can sing (208)
-diamond-shaped phone with tail (277) nope, now has wing-phone with only contact "A" (308)
+diamond-shaped phone with tail (277) nope, now has wing-phone with only contact "A" (308) = Arda (323)
 ---
 Simon Clockwork (176) - gear (173) - (friend with hat/Cowboy Tony (171)) (125) (but only in skype pic) (167)
 no descendants (254)
@@ -74,6 +74,7 @@ no gap under door (277)
   knight (robot) (311) seems not unfriendly (314)
   dieing guy + wand; stairs (311) odd colour and pointy ears (314)
   wand giving tutorial (314) teleport (320)
+   Weapon (when registered)/tool, wave and wish; teleportation needs experts (323)
 ---
 Yukki Fyfe (131) - mother - detective? (35) ninja (127)
 inventory: 5 items, 4 weapons, 1 odd (portal?) (136)
@@ -98,7 +99,7 @@ basement is probably the same as Jason's (251)(235)
 atmo-bubble; no sunlight (277)
 has nest that goes to Jason's desk (283)
 going somewhere else, needs sword (318) going via another window (320)
-
+  window is too small (maybe 1/10 scale) (
 ---
 Arda (269) - lizard (260)
 has artificial sun for light (260) can turn sand to glass (299)
@@ -108,22 +109,24 @@ pyramid structure (269)
   device with red and green buttons (277) Also other controls (299)
   WTF does it do? (283) Enlarges things, to top of pyramid (299)
   green = send, red = receive? (289)
-    sizes 1/100, 1/10, 1/1, 10/1, 100/1; symbols cloud, III (jail cell) (318), gun (Brent B-side), and scissors (302) (305)
+    sizes 1/100, 1/10, 1/1, 10/1, 100/1; symbols cloud (sky (323)), III (jail cell) (318), gun (Brent B-side), and scissors (302) (305)
     and down the back: pincer, diamond (luke), circle, gear (simon), scissors (305)
   connects to Simon's fireplace without portal (314) and Brent's B-side (299)
   "No Entry" door is locked (318); "4:8:1:5" (299) they're just numbers (305)
 diamond-shaped phone with wings (277) missing (291) Shard has it (308)
+phone with tail; with shard as contact (323)
 ---
 ??? - reading report (295)
 working for ???? (302) will give report to ????? (314)
 in secret facility (295) 2pm, 2016-09-14 East-coast(299) in room 14-A, won't leave (302)
 Knows where to get needed files, blue diamond incident (305)
-got in via "portal" (314)
+got in via "portal" (314) can make holes with "sigil" (mercury); currently exnarrativated but might be in Arda's pyramid? (323)
 ---
 Agent G / Gizmo (81)
 + 10 field agents (295)
 Mission: Blue Diamond; 9:00 on 2016-08-10 (295)
 an agent fell through Brent's window? through there is night, castle, etc (314)
+What *is* Gizmo?  robot? (323)
 ---
 robot (314) Not playable without "Just Another Day: Just Another Cycle" (318)
 not one of Jason's (320)
@@ -143,21 +146,22 @@ Brent: hunt bird (86)
 Jason's box's countdown is at 4:14:59 (302)
 Who is "A" on Arda's "new" phone? (308)
 Jason must observe Luke's computer to create phone for him (311)
-???: exit somehow (311)
+???: currently exnarrativated but might be in Arda's pyramid (323)
 Simon: "Well, I guess I'll just have to see them for myself sometime." (311)
 Gizmo is getting jetpack (314)
 Jason: pick up Luke's computer. (314)
 what is large pile? (251)
+Brent: register wand (323)
 ---
-inventories last seen: luke (269) simon (260) brent (260) shard (277) arda (277)
+inventories last seen: luke (269) simon (260) brent (260) shard (323) arda (277)
 luke is in next to small blue tower, in research van (314)
 jason is in room (
 magpie is near heart tower somewhere? (311) (265)
-brent is in other world, in darkness
+brent is in other world, in darkness (323)
 - gun, 3 marbles, window (260)
 yukki is in house, waiting for G, playing fruit ninja (283)
 simon is in his house
-Shard is ... somwhere at 1/10000 scale probably, with cells around (314)
+Shard is ... near Arda at 1/10000 scale probably (323)
 Jaz is in the basement, has sword from Simon via Jason (305)
 Arda is in cage (265) exploring structure (277)
 Gizmo coming over soon (277) might find fish castle parts
