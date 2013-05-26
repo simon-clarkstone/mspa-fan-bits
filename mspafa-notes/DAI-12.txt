@@ -7,6 +7,7 @@ Unstationary Panel. (40)
 
 Light field; segmented blue-tinted force field; electric (19)
 ---
+presumably built for humans (84)
 cold hard floor, rubbery/plasticine (1) slight seams (8) gray (6) gashable (14) climable (22)
 white walls + ceil (6)
 ceil breakable (11)(14)
@@ -16,6 +17,9 @@ chamber lock smells different; hard black carpet, wooden panels, metal frame (42
 voice does not like personality or emotion (45)
 "Any sort of damage you withstand during this section will be healed before you move on" (19)
 being trained (45)
+had memories removed while in tube of liquid (79) subtle scars on head, including between eyes (84)
+possibly not original body (84)
+"You do not have a mother." (88)
 ---
 pronoun: "them" (14) but might be able to have gender (51)
 "your own human psyche" (11)
@@ -24,20 +28,25 @@ outward appearance (6):
 - white fur, black claws, tail
 - 4ped/2ped, 5dact/4dact limbs can reach ceil
 - 2m tall? (19)
+- black omnivore teeth, perfectly white skin under the fur (84)
+- two slitted nostrils, black eyes (84)
+- ears have gray-ish insides, automatic or conscious control (84)
 black blood (54)
 metal skeleton??? (67)
 11m / 8m jump; just awesome physically (22)
 tail over twice length of body (22)
 - can lift cube easily (36)
-"split" tongue (42)
+"split" tongue (42) but not reptilian (84)
 Automatic fear reaction to increase heart rate (17)
 - some non-conscious actions too (22)
 - not much control over physiology (48)
 facepalm (17)
 sheer depth of the void below makes you uneasy (25)
+can't talk really (11) but can type and the voice knows it (88)
 raw meat, fruit (42) hunting (45) dreams of outside (51)
 ---
 TODO:
 is mind in body?
 what are the three settings on the mirror
 climb wall
+scar between eyes (84)
