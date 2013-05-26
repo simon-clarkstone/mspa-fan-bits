@@ -1,3 +1,4 @@
+Developed Artificial Intelligence 12 (91)
 Automated Discouragement Redirection Panel. (40)
 Light Bridge. (only redirectable horizontally) (31)
 Weighted Storage Cube. (40)
@@ -14,6 +15,7 @@ ceil breakable (11)(14)
 trapdoors (14)
 chamber lock smells different; hard black carpet, wooden panels, metal frame (42)
 ---
+voice is artificial (91)
 voice does not like personality or emotion (45)
 "Any sort of damage you withstand during this section will be healed before you move on" (19)
 being trained (45)
@@ -22,7 +24,7 @@ possibly not original body (84)
 "You do not have a mother." (88)
 ---
 pronoun: "them" (14) but might be able to have gender (51)
-"your own human psyche" (11)
+"your own human psyche" (11) but not human brain (91)
 outward appearance (6):
 - digitigrade, reptilian snout, pointy ears
 - white fur, black claws, tail
