@@ -1,6 +1,6 @@
 Polychrome (242) circle minus contained square (272) Specifically the evil dept (272/2)
 Developed Artificial Intelligence 12 (91)
-comPad
+comPad (272)
 ---
 cold hard floor, rubbery/plasticine (1) slight seams (8) gray (6) gashable (14) climable (22) upstairs decayed (256)
 presumably built for humans (84) but they seem to have had a war (231)
@@ -8,7 +8,7 @@ rust, dust, white rats (256) cold (256)
 some lights (256)
 crates of stuff; made some clothing, human sleeves too narrow+short (257)
 mushrooms glow green (272)
-skeleton, chip, broken pen, notebook (272)
+skeleton, chip, broken pen, notebook (272) carrying them (277) pens, rubber ball, rectangular device, puzzle cube (281)
 Brazil (272,2243-07-14)
 ---
 "You do not have a mother." (88)
