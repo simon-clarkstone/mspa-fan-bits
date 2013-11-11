@@ -16,3 +16,6 @@ Bambino (25) lev2 str22 int6 dex6 vit13 (38)
  reduces fear (38)
 Sister (3) depravedPhantasm[DP] (22)
  knows Derrick's been sleeping less (22)
+
+---
+Trolling impending re: extra players  mspaforums.com/showthread.php?p=7403262#post7403262
