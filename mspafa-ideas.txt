@@ -1,3 +1,7 @@
+Animation:
+http://vectorian.com/giotto/  exports flash
+http://www.synfig.org/cms/
+
 * Kigdatsi MSPAFA in native art-style
 
 see Git repos  http://github.com/simon-clarkstone/ITNAS
